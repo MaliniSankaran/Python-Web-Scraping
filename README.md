@@ -1,8 +1,7 @@
+---
 # Python-Web-Scraping
 
 This repository contains two Python scripts that demonstrate basic web scraping techniques. Each script is standalone and will generate a `.csv` file with the scraped data.
-
----
 
 ## Setup and Usage
 
@@ -67,7 +66,7 @@ It uses `requests` and `BeautifulSoup` for scraping, `re` for data cleaning and 
 {'Title': 'Machine learning', 'Authors': 'E Alpaydin - 2021 - books.google.com', 'Year': '2021'}
 {'Title': 'Machine learning: Trends, perspectives, and prospects', 'Authors': 'MI Jordan, TM Mitchell\xa0- Science, 2015 - science.org', 'Year': '2015'}
 {'Title': 'What is machine learning?', 'Authors': 'I El Naqa, MJ Murphy\xa0- Machine learning in radiation oncology: theory and\xa0…, 2015 - Springer', 'Year': '2015'}
-
----
 {'Title': 'Machine learning', 'Authors': 'TG Dietterich\xa0- Annual review of computer science, 1990 - engr.oregonstate.edu', 'Year': '1990'}
 Google Scholar data scraped! Data saved in scholar_papers.csv`
+
+---
