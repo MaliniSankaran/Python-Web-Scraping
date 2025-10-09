@@ -1,6 +1,6 @@
----
-# Python-Web-Scraping
 
+# Python-Web-Scraping
+---
 This repository contains two Python scripts that demonstrate basic web scraping techniques. Each script is standalone and will generate a `.csv` file with the scraped data.
 
 ## Setup and Usage
